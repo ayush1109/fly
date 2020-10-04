@@ -31,7 +31,7 @@ class Home extends Component {
                                 <Label htmlFor="days" md={2}>Days</Label>
                                 <Col md={10}>
                                     <Control.text model=".days" id="days" name="days"
-                                        placeholder="Enter no of days to forecast"
+                                        placeholder="Enter no of days to forecast(Upto 3)"
                                         className="form-control" />
                                 </Col>
                             </Row>
