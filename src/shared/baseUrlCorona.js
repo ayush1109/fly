@@ -1,0 +1,1 @@
+export const baseUrlCorona = 'https://covid-19-uk-data-by-zt.p.rapidapi.com/';

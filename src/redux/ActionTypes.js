@@ -1,3 +1,7 @@
 export const ADD_WEATHER = 'ADD_WEATHER';
 export const LOADING_WEATHER = 'LOADING_WEATHER';
 export const  FAILED_WEATHER = 'FAILED_WEATHER';
+
+export const ADD_CORONA = 'ADD_CORONA';
+export const LOADING_CORONA = 'LOADING_CORONA';
+export const FAILED_CORONA = 'FAILED_CORONA';

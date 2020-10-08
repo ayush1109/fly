@@ -43,7 +43,7 @@ function RenderWeather({ weather }) {
 
 
 
-const Show = (props) => {
+const ShowWeather = (props) => {
     if (props.isLoading)
         return (
             <div className="container">
@@ -70,4 +70,4 @@ const Show = (props) => {
         );
 }
 
-export default Show;
+export default ShowWeather;
